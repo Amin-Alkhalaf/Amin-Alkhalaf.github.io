@@ -23,7 +23,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   My background allows me to combine hands-on technical practice with business-oriented thinking and the ability to manage and guide projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/profile-image/avatar.jpeg
+profile_image: ./assets/profile-image/avatar.png
 
 
 # Link your resume
