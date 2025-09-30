@@ -12,7 +12,7 @@ skills:
   - Team Collaboration & Project Documentation
 
 main-image: /2d-plotter.jpg
-
+---
 
 ## Adding external links
 [Youtube]([https://en.wikipedia.org](https://youtu.be/WSOR8NF2r9o))
